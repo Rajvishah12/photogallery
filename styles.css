@@ -1,0 +1,27 @@
+*{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+.photo-row1{
+  display:flex;
+  justify-content: space-around;
+}
+.v{
+  height: 400px;
+  width: 300px;
+  object-fit: cover;
+}
+.photo-row2{
+  display:flex;
+  justify-content: space-around;
+  margin-left: 90px;
+  margin-right: 90px;
+  margin-top: 20px;
+  margin-bottom: 20px
+}
+.h{
+  height: 290px;
+  width: 390px;
+  object-fit: cover;
+}
