@@ -3,25 +3,87 @@
   padding:0;
   box-sizing:border-box;
 }
-.photo-row1{
-  display:flex;
-  justify-content: space-around;
+body{
+  background-color: #F6F2EB;
+}
+h1{
+  background-color: #E7CFCD;
+  margin-left: 110px;
+  margin-right: 110px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  text-align: center;
+  font-family: Book Antiqua;
+  font-size: 30px;
+  color: #2F241F;
 }
 .v{
   height: 400px;
   width: 300px;
   object-fit: cover;
 }
-.photo-row2{
+.h{
+  height: 250px;
+  width: 345px;
+  object-fit: cover;
+}
+.photo-row1{
   display:flex;
   justify-content: space-around;
   margin-left: 90px;
   margin-right: 90px;
-  margin-top: 20px;
-  margin-bottom: 20px
 }
-.h{
-  height: 290px;
-  width: 390px;
-  object-fit: cover;
+.photo-row2{
+  display:flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.photo-row3{
+  display:flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.photo-row4{
+  display:flex;
+  justify-content: space-around;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+.photo-row5{
+  display:flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.photo-row6{
+  display:flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
+}
+.photo-row7{
+  display:flex;
+  justify-content: space-around;
+  margin-left: 90px;
+  margin-right: 90px;
+}
+.photo-row8{
+  display:flex;
+  justify-content: space-between;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-left: 80px;
+  margin-right: 80px;
 }
